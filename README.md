@@ -1,2 +1,1 @@
-# rickroll-web
-Open up never gonna give you up in the default web browser
+Rick Roll Web (RRW) Opens up never gonna give you up in the default web browser
